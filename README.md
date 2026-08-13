@@ -1,68 +1,74 @@
 <div align="center">
 
-<h1>Rakib Hossain</h1>
+# Rakib Hossain
 
-<h3>Full-Stack Developer</h3>
+### Full-Stack Developer
 
-<p>
-  Building modern, interactive & responsive web experiences.
-</p>
+Building modern, responsive & interactive web experiences.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,gsap,git,github" alt="Tech Stack" />
-</p>
+<br>
+
+<a href="https://github.com/mdrakibhasan2512">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript">
+&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+&nbsp;
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=111111" alt="GSAP">
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a passionate developer focused on creating **modern, responsive and interactive web applications**.
+I'm a passionate developer focused on building **modern, responsive and interactive web applications**.
 
-I enjoy turning ideas into real-world projects, experimenting with animations and continuously improving my development skills.
+I enjoy transforming ideas into real-world projects, creating engaging user experiences and continuously improving my development skills.
 
-* 💻 Focused on **Full-Stack Web Development**
-* ⚛️ Building interfaces with **React & JavaScript**
-* ✨ Creating interactive experiences with **GSAP**
-* 🌐 Currently developing my **Backend Development** skills
-* 🚀 Learning by building real-world projects
+* Focused on **Full-Stack Web Development**
+* Building modern interfaces with **React & JavaScript**
+* Creating interactive animations with **GSAP**
+* Exploring **Backend Development**
+* Learning through hands-on, real-world projects
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Technologies" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML CSS JavaScript React">
 </p>
 
-### Animation & Interactive UI
+### Animation & UI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=gsap" alt="GSAP" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=111111" alt="GSAP">
 </p>
 
 ### Backend — Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js Express MongoDB">
 </p>
 
-### Tools
+### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github" alt="Development Tools" />
+<img src="https://skillicons.dev/icons?i=git,github" alt="Git GitHub">
 </p>
 
 ---
 
-## 🎯 What I Focus On
+## What I Focus On
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Frontend Development
 
@@ -70,19 +76,19 @@ I enjoy turning ideas into real-world projects, experimenting with animations an
 * Modern UI Development
 * React Applications
 * JavaScript Development
-* Interactive Animations
+* Interactive Web Experiences
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Full-Stack Development
 
-* REST APIs
-* Backend Development
+* REST API Development
+* Backend Fundamentals
 * Database Integration
 * Authentication
-* Full-Stack Architecture
+* Full-Stack Application Architecture
 
 </td>
 </tr>
@@ -90,77 +96,33 @@ I enjoy turning ideas into real-world projects, experimenting with animations an
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Currently Learning" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js Express MongoDB">
 </p>
 
-**Node.js · Express.js · MongoDB**
-
-Currently improving my understanding of:
+I'm currently strengthening my backend development skills with:
 
 * REST API development
-* Backend architecture
+* Node.js & Express.js
+* MongoDB & database design
 * Authentication & authorization
-* Database design
-* Connecting frontend with backend
+* Frontend–backend integration
 * Full-stack application development
 
 ---
 
-## 🚀 Development Journey
-
-<div align="center">
-
-**HTML & CSS**
-
-↓
-
-**JavaScript**
-
-↓
-
-**React**
-
-↓
-
-**GSAP & Interactive UI**
-
-↓
-
-**Node.js**
-
-↓
-
-**Express.js**
-
-↓
-
-**MongoDB**
-
-↓
-
-**Full-Stack Development**
-
-</div>
-
----
-
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/mdrakibhasan2512">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-mdrakibhasan2512-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-### Building. Learning. Improving. 🚀
+**Building • Learning • Improving**
 
 </div>
