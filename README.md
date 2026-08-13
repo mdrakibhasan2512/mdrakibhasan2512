@@ -22,7 +22,6 @@ Building modern, responsive & interactive web experiences.
 
 ---
 
-<div align="center">
 
 ## About Me
 
@@ -44,7 +43,6 @@ creating engaging user experiences and continuously improving my development ski
 
 ---
 
-<div align="center">
 
 ## Technologies
 
