@@ -10,6 +10,7 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)](https://tailwindcss.com/)
 [![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=ffffff)](https://gsap.com/)
 
 </div>
@@ -56,6 +57,7 @@ creating engaging user experiences and continuously improving my development ski
 [![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 
 <br><br>
 
@@ -63,7 +65,7 @@ creating engaging user experiences and continuously improving my development ski
 
 [![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=ffffff)](https://gsap.com/)
 
-<br><br>
+<br>
 
 ### Backend — Currently Learning
 
@@ -71,7 +73,7 @@ creating engaging user experiences and continuously improving my development ski
 [![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 
-<br><br>
+<br>
 
 ### Development Tools
 
@@ -94,6 +96,7 @@ creating engaging user experiences and continuously improving my development ski
 
 - Responsive Web Design
 - Modern UI Development
+- Tailwind CSS Styling
 - React Applications
 - JavaScript Development
 - Interactive Web Experiences
@@ -128,11 +131,10 @@ creating engaging user experiences and continuously improving my development ski
 [![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 
-<br><br>
+<br>
 
 ### Node.js · Express.js · MongoDB
 
-<br>
 
 I'm currently strengthening my backend development skills with:
 
