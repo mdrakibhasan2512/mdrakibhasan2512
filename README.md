@@ -1,16 +1,16 @@
 <div align="center">
 
-# Rakib Hossain
+# 👋 Hi, I'm Rakib Hossain
 
 ### Full-Stack Developer
 
-Building modern, responsive & interactive web experiences.
+**Building modern, responsive & interactive web experiences.**
 
 <br>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=111111" alt="GSAP">
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=ffffff)](https://gsap.com/)
 
 </div>
 
@@ -18,7 +18,11 @@ Building modern, responsive & interactive web experiences.
 
 <div align="center">
 
-## About Me
+## 👨‍💻 About Me
+
+</div>
+
+<div align="center">
 
 I'm a passionate developer focused on building  
 **modern, responsive and interactive web applications.**
@@ -26,59 +30,17 @@ I'm a passionate developer focused on building
 I enjoy transforming ideas into real-world projects,  
 creating engaging user experiences and continuously improving my development skills.
 
+</div>
+
 <br>
 
-<table>
-<tr>
+<div align="center">
 
-<td align="center" width="33%">
-
-💻  
-**Full-Stack Web Development**
-
-</td>
-
-<td align="center" width="33%">
-
-⚛️  
-**React & JavaScript**
-
-</td>
-
-<td align="center" width="33%">
-
-✨  
-**Interactive GSAP Experiences**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="33%">
-
-🌐  
-**Backend Development**
-
-</td>
-
-<td align="center" width="33%">
-
-🚀  
-**Real-World Projects**
-
-</td>
-
-<td align="center" width="33%">
-
-📈  
-**Continuous Learning**
-
-</td>
-
-</tr>
-</table>
+| 💻 | ⚛️ | ✨ |
+|:---:|:---:|:---:|
+| **Full-Stack Web Development** | **React & JavaScript** | **Interactive GSAP Experiences** |
+| 🌐 | 🚀 | 📈 |
+| **Backend Development** | **Real-World Projects** | **Continuous Learning** |
 
 </div>
 
@@ -86,29 +48,35 @@ creating engaging user experiences and continuously improving my development ski
 
 <div align="center">
 
-## Technologies
+## 🛠️ Technologies
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML CSS JavaScript React">
+[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
 
 <br><br>
 
 ### Animation & UI
 
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=111111" alt="GSAP">
+[![GSAP](https://skillicons.dev/icons?i=gsap)](https://gsap.com/)
 
 <br><br>
 
 ### Backend — Currently Learning
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js Express MongoDB">
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 
 <br><br>
 
 ### Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github" alt="Git GitHub">
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 
 </div>
 
@@ -116,47 +84,33 @@ creating engaging user experiences and continuously improving my development ski
 
 <div align="center">
 
-## What I Focus On
+## 🎯 What I Focus On
 
 <table>
 <tr>
-
-<td align="center" width="50%" valign="top">
+<td width="50%" valign="top">
 
 ### Frontend Development
 
-<br>
-
-Responsive Web Design
-
-Modern UI Development
-
-React Applications
-
-JavaScript Development
-
-Interactive Web Experiences
+- Responsive Web Design
+- Modern UI Development
+- React Applications
+- JavaScript Development
+- Interactive Web Experiences
 
 </td>
 
-<td align="center" width="50%" valign="top">
+<td width="50%" valign="top">
 
 ### Full-Stack Development
 
-<br>
-
-REST API Development
-
-Backend Fundamentals
-
-Database Integration
-
-Authentication
-
-Full-Stack Application Architecture
+- REST API Development
+- Backend Fundamentals
+- Database Integration
+- Authentication & Authorization
+- Full-Stack Application Architecture
 
 </td>
-
 </tr>
 </table>
 
@@ -166,26 +120,31 @@ Full-Stack Application Architecture
 
 <div align="center">
 
-## Currently Learning
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js Express MongoDB">
-
-<br><br>
-
-**Node.js · Express.js · MongoDB**
-
-<br><br>
-
-I'm currently strengthening my backend development skills with:
+## 📚 Currently Learning
 
 <br>
 
-REST API development  
-Node.js & Express.js  
-MongoDB & database design  
-Authentication & authorization  
-Frontend–backend integration  
-Full-stack application development
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+
+<br><br>
+
+### Node.js · Express.js · MongoDB
+
+<br>
+
+I'm currently strengthening my backend development skills with:
+
+</div>
+
+<div align="center">
+
+| 🌐 | 🔧 | 🗄️ |
+|:---:|:---:|:---:|
+| **REST API Development** | **Node.js & Express.js** | **MongoDB & Database Design** |
+| 🔐 | 🔗 | 🚀 |
+| **Authentication & Authorization** | **Frontend–Backend Integration** | **Full-Stack Application Development** |
 
 </div>
 
@@ -193,16 +152,16 @@ Full-stack application development
 
 <div align="center">
 
-## Let's Connect
+## 🤝 Let's Connect
+
+I'm always interested in learning, building and collaborating on meaningful projects.
 
 <br>
 
-<a href="https://github.com/mdrakibhasan2512">
-<img src="https://img.shields.io/badge/GitHub-mdrakibhasan2512-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdrakibhasan2512)
 
 <br><br>
 
-**Building • Learning • Improving**
+**Thanks for visiting my profile! 🚀**
 
 </div>
