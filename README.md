@@ -61,7 +61,7 @@ creating engaging user experiences and continuously improving my development ski
 
 ### Animation & UI
 
-[![GSAP](https://skillicons.dev/icons?i=gsap)](https://gsap.com/)
+[![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=ffffff)](https://gsap.com/)
 
 <br><br>
 
