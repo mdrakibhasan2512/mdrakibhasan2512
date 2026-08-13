@@ -59,21 +59,15 @@ creating engaging user experiences and continuously improving my development ski
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 
-<br><br>
-
 ### Animation & UI
 
 [![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=ffffff)](https://gsap.com/)
-
-<br>
 
 ### Backend — Currently Learning
 
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
 [![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
-
-<br>
 
 ### Development Tools
 
@@ -131,8 +125,6 @@ creating engaging user experiences and continuously improving my development ski
 [![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 
-<br>
-
 ### Node.js · Express.js · MongoDB
 
 
@@ -162,7 +154,7 @@ I'm always interested in learning, building and collaborating on meaningful proj
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdrakibhasan2512)
 
-<br><br>
+<br>
 
 **Thanks for visiting my profile! 🚀**
 
