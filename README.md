@@ -1,50 +1,166 @@
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<div align="center">
 
-              RAKIB HOSSAIN
-        Full-Stack Developer
+<h1>Rakib Hossain</h1>
 
-   Building modern • interactive • scalable
-             web experiences
+<h3>Full-Stack Developer</h3>
 
-     JavaScript  React  GSAP  Node.js
+<p>
+  Building modern, interactive & responsive web experiences.
+</p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,gsap,git,github" alt="Tech Stack" />
+</p>
 
-ABOUT ME
+</div>
 
-TECHNOLOGIES
+---
 
-  Frontend
-  HTML • CSS • JavaScript • React
+## 👨‍💻 About Me
 
-  Animation & UI
-  GSAP
+I'm a passionate developer focused on creating **modern, responsive and interactive web applications**.
 
-  Backend — Learning
-  Node.js • Express.js • MongoDB
+I enjoy turning ideas into real-world projects, experimenting with animations and continuously improving my development skills.
 
-  Tools
-  Git • GitHub
+* 💻 Focused on **Full-Stack Web Development**
+* ⚛️ Building interfaces with **React & JavaScript**
+* ✨ Creating interactive experiences with **GSAP**
+* 🌐 Currently developing my **Backend Development** skills
+* 🚀 Learning by building real-world projects
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-WHAT I'M BUILDING
+## 🛠️ Technologies
 
-  ◉ Full-Stack Applications
-  ◉ Interactive React Experiences
-  ◉ Modern Responsive Interfaces
-  ◉ Backend & REST APIs
+### Frontend
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Technologies" />
+</p>
 
-CURRENTLY LEARNING
+### Animation & Interactive UI
 
-  Node.js • Express.js • MongoDB
-  REST API • Authentication
-  Full-Stack Architecture
+<p>
+  <img src="https://skillicons.dev/icons?i=gsap" alt="GSAP" />
+</p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### Backend — Currently Learning
 
-          LET'S CONNECT
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies" />
+</p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Development Tools" />
+</p>
+
+---
+
+## 🎯 What I Focus On
+
+<table>
+<tr>
+<td width="50%">
+
+### Frontend Development
+
+* Responsive Web Design
+* Modern UI Development
+* React Applications
+* JavaScript Development
+* Interactive Animations
+
+</td>
+
+<td width="50%">
+
+### Full-Stack Development
+
+* REST APIs
+* Backend Development
+* Database Integration
+* Authentication
+* Full-Stack Architecture
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Currently Learning" />
+</p>
+
+**Node.js · Express.js · MongoDB**
+
+Currently improving my understanding of:
+
+* REST API development
+* Backend architecture
+* Authentication & authorization
+* Database design
+* Connecting frontend with backend
+* Full-stack application development
+
+---
+
+## 🚀 Development Journey
+
+<div align="center">
+
+**HTML & CSS**
+
+↓
+
+**JavaScript**
+
+↓
+
+**React**
+
+↓
+
+**GSAP & Interactive UI**
+
+↓
+
+**Node.js**
+
+↓
+
+**Express.js**
+
+↓
+
+**MongoDB**
+
+↓
+
+**Full-Stack Development**
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/mdrakibhasan2512">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Building. Learning. Improving. 🚀
+
+</div>
