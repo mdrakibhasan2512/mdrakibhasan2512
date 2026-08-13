@@ -8,14 +8,8 @@ Building modern, responsive & interactive web experiences.
 
 <br>
 
-<a href="https://github.com/mdrakibhasan2512">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript">
-
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=111111" alt="GSAP">
 
 </div>
@@ -34,11 +28,57 @@ creating engaging user experiences and continuously improving my development ski
 
 <br>
 
-• Focused on **Full-Stack Web Development**  
-• Building modern interfaces with **React & JavaScript**  
-• Creating interactive animations with **GSAP**  
-• Exploring **Backend Development**  
-• Learning through hands-on, real-world projects
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+💻  
+**Full-Stack Web Development**
+
+</td>
+
+<td align="center" width="33%">
+
+⚛️  
+**React & JavaScript**
+
+</td>
+
+<td align="center" width="33%">
+
+✨  
+**Interactive GSAP Experiences**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+
+🌐  
+**Backend Development**
+
+</td>
+
+<td align="center" width="33%">
+
+🚀  
+**Real-World Projects**
+
+</td>
+
+<td align="center" width="33%">
+
+📈  
+**Continuous Learning**
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -81,9 +121,11 @@ creating engaging user experiences and continuously improving my development ski
 <table>
 <tr>
 
-<td width="50%" valign="top" align="center">
+<td align="center" width="50%" valign="top">
 
 ### Frontend Development
+
+<br>
 
 Responsive Web Design
 
@@ -97,9 +139,11 @@ Interactive Web Experiences
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td align="center" width="50%" valign="top">
 
 ### Full-Stack Development
+
+<br>
 
 REST API Development
 
@@ -130,18 +174,18 @@ Full-Stack Application Architecture
 
 **Node.js · Express.js · MongoDB**
 
-<br>
+<br><br>
 
 I'm currently strengthening my backend development skills with:
 
 <br>
 
-• REST API development  
-• Node.js & Express.js  
-• MongoDB & database design  
-• Authentication & authorization  
-• Frontend–backend integration  
-• Full-stack application development
+REST API development  
+Node.js & Express.js  
+MongoDB & database design  
+Authentication & authorization  
+Frontend–backend integration  
+Full-stack application development
 
 </div>
 
