@@ -153,8 +153,9 @@ I'm always interested in learning, building and collaborating on meaningful proj
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdrakibhasan2512)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakibhossain2512/)
 
-<br>
+<br><br>
 
 **Thanks for visiting my profile! 🚀**
 
