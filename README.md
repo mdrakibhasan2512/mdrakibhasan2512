@@ -11,111 +11,147 @@ Building modern, responsive & interactive web experiences.
 <a href="https://github.com/mdrakibhasan2512">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-&nbsp;
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript">
-&nbsp;
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-&nbsp;
+
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=111111" alt="GSAP">
 
 </div>
 
 ---
 
+<div align="center">
+
 ## About Me
 
-I'm a passionate developer focused on building **modern, responsive and interactive web applications**.
+I'm a passionate developer focused on building  
+**modern, responsive and interactive web applications.**
 
-I enjoy transforming ideas into real-world projects, creating engaging user experiences and continuously improving my development skills.
+I enjoy transforming ideas into real-world projects,  
+creating engaging user experiences and continuously improving my development skills.
 
-* Focused on **Full-Stack Web Development**
-* Building modern interfaces with **React & JavaScript**
-* Creating interactive animations with **GSAP**
-* Exploring **Backend Development**
-* Learning through hands-on, real-world projects
+<br>
+
+• Focused on **Full-Stack Web Development**  
+• Building modern interfaces with **React & JavaScript**  
+• Creating interactive animations with **GSAP**  
+• Exploring **Backend Development**  
+• Learning through hands-on, real-world projects
+
+</div>
 
 ---
+
+<div align="center">
 
 ## Technologies
 
 ### Frontend
 
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML CSS JavaScript React">
-</p>
+
+<br><br>
 
 ### Animation & UI
 
-<p>
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=111111" alt="GSAP">
-</p>
+
+<br><br>
 
 ### Backend — Currently Learning
 
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js Express MongoDB">
-</p>
+
+<br><br>
 
 ### Development Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github" alt="Git GitHub">
-</p>
+
+</div>
 
 ---
+
+<div align="center">
 
 ## What I Focus On
 
 <table>
 <tr>
-<td width="50%" valign="top">
+
+<td width="50%" valign="top" align="center">
 
 ### Frontend Development
 
-* Responsive Web Design
-* Modern UI Development
-* React Applications
-* JavaScript Development
-* Interactive Web Experiences
+Responsive Web Design
+
+Modern UI Development
+
+React Applications
+
+JavaScript Development
+
+Interactive Web Experiences
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### Full-Stack Development
 
-* REST API Development
-* Backend Fundamentals
-* Database Integration
-* Authentication
-* Full-Stack Application Architecture
+REST API Development
+
+Backend Fundamentals
+
+Database Integration
+
+Authentication
+
+Full-Stack Application Architecture
 
 </td>
+
 </tr>
 </table>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## Currently Learning
 
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js Express MongoDB">
-</p>
+
+<br><br>
+
+**Node.js · Express.js · MongoDB**
+
+<br>
 
 I'm currently strengthening my backend development skills with:
 
-* REST API development
-* Node.js & Express.js
-* MongoDB & database design
-* Authentication & authorization
-* Frontend–backend integration
-* Full-stack application development
+<br>
+
+• REST API development  
+• Node.js & Express.js  
+• MongoDB & database design  
+• Authentication & authorization  
+• Frontend–backend integration  
+• Full-stack application development
+
+</div>
 
 ---
 
+<div align="center">
+
 ## Let's Connect
 
-<div align="center">
+<br>
 
 <a href="https://github.com/mdrakibhasan2512">
 <img src="https://img.shields.io/badge/GitHub-mdrakibhasan2512-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
